@@ -7,7 +7,9 @@ Being all-seing, this program already knows what your astrological sign is, and 
 1. Clone the repository
 2. Make sure you have npm installed
 3. Run the `prediction_generator` script using the following command:
-`% node prediction_generator`
+```
+$ node prediction_generator
+```
 4. See what's in store for you!
 
 ## License
